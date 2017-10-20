@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Video Rotate - Flip</string>
+    <string name="str1">Select Video</string>
+    <string name="str2">Start</string>
+    <string name="str3">If an error occurred\nplease change the codecs below and try again</string>
+    <string name="str4">Stop</string>
+    <string name="str5">Successfully completed</string>
+    <string name="str6">Error!</string>
+    <string name="str7">User stopped!</string>
+    <string name="str8">Running&#8230;</string>
+    <string name="str9">Video not selected!</string>
+    <string name="str10">File not accessible!</string>
+    <string-array name="spin_items">
+        <item>Default</item>
+        <item>90&#176; Rotate</item>
+        <item>180&#176; Rotate</item>
+        <item>270&#176; Rotate</item>
+        <item>Vertical Flip</item>
+        <item>Horizontal Flip</item>
+    </string-array>
+    <string-array name="v_codecs">
+        <item>v-codecs</item>
+        <item>libx264</item>
+        <item>mpeg4</item>
+        <item>libx265</item>
+        <item>flv</item>
+        <item>libwebp</item>
+        <item>wmv3</item>
+    </string-array>
+    <string-array name="a_codecs">
+        <item>a-codecs</item>
+        <item>aac</item>
+        <item>aac_fixed</item>
+        <item>ac3</item>
+        <item>ac3_fixed</item>
+        <item>libmp3lame</item>
+        <item>wavpack</item>
+        <item>libwavpack</item>
+    </string-array>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/2269642140</string>
+    <string name="play_store_id">dogusumit</string>
+</resources>
